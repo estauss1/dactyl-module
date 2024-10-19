@@ -1,5 +1,5 @@
 #include "dac.dtsi"
 
-&default_transform {
+&mt_5x6 {
     col-offset = <6>;
 };
