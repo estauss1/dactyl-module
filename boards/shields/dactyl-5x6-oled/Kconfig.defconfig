@@ -14,4 +14,14 @@ if SHIELD_DAC_LEFT || SHIELD_DAC_RIGHT
 config ZMK_SPLIT
     default y
 
+if ZMK_DISPLAY
+
+config I2C
+    default y
+
+config SSD1306
+    default y
+
+endif #zmk_display
+
 endif
