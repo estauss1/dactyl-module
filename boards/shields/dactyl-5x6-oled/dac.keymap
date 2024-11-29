@@ -35,7 +35,7 @@
                 &none      &none    &kp UP   &none     &kp END     &none              &none  &none  &none  &none  &none   &none
                 &none      &kp LEFT &kp DOWN &kp RIGHT &kp K_PASTE &none              &none  &none  &none  &none  &none   &none
                                     &none    &none     &none                                 &none  &none  &none
-                                    &kp INS  &none     &BT_CLR     &kp PRINTSCREEN    &none  &none  &none  &none
+                                    &kp INS  &none     &bt BT_CLR  &kp PRINTSCREEN    &none  &none  &none  &none
             >;
         };
     };
