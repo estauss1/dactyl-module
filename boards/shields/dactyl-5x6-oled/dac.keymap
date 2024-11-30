@@ -22,7 +22,7 @@
                  &kp LCTRL  &kp A   &kp S     &kp D    &kp F     &kp G      &kp H  &kp J         &kp K      &kp L      &kp SEMI  &kp SQT
                  &kp LSHIFT &kp Z   &kp X     &kp C    &kp V     &kp B      &kp N  &kp M         &kp COMMA  &kp PERIOD &kp SLASH &kp BACKSLASH
                                     &kp GRAVE &kp LALT &ext_power EP_ON            &kp BACKSPACE &kp LBKT   &kp RBKT
-                                    &kp ESC   &kp LGUI &kp DEL   &kp TAB    &mo 1  &kp ENTER     &kp LSHIFT &tog 2
+                                    &kp ESC   &kp LGUI &kp DEL   &kp TAB    &mo 1  &kp ENTER     &kp LSHIFT &to 2
              >;
          };
 
